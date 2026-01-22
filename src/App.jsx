@@ -15,13 +15,13 @@ const content = {
       title:
         'เราช่วยธุรกิจสร้างระบบดิจิทัลที่ทันสมัยด้วยทีมผู้เชี่ยวชาญด้านการเขียนโปรแกรม',
       subtitle:
-        'Qodexity Tech Services เป็นพาร์ตเนอร์ด้านเทคโนโลยีที่ดูแลตั้งแต่การวางแผน พัฒนา ไปจนถึงดูแลระบบหลังเปิดใช้งานอย่างครบวงจร',
+        'Qodexity Tech Services คือบริษัทเทคโนโลยีน้องใหม่ที่พร้อมดูแลตั้งแต่การวางแผน พัฒนา ไปจนถึงดูแลระบบหลังเปิดใช้งานอย่างครบวงจร',
       primaryCta: 'รับคำปรึกษาฟรี',
       secondaryCta: 'ดูผลงานล่าสุด',
       metrics: [
-        { value: '120+', label: 'โครงการสำเร็จ' },
-        { value: '98%', label: 'ความพึงพอใจลูกค้า' },
-        { value: '24/7', label: 'ดูแลระบบ' }
+        { value: 'Day 1', label: 'เริ่มต้นเส้นทาง' },
+        { value: '0', label: 'ลูกค้าที่ให้บริการ' },
+        { value: '100%', label: 'ความมุ่งมั่นในการดูแล' }
       ],
       cardTitle: 'โซลูชันเด่นของเรา',
       cardItems: [
@@ -102,20 +102,14 @@ const content = {
       ]
     },
     testimonials: {
-      title: 'เสียงจากลูกค้า',
-      subtitle: 'ทีมของเรามุ่งเน้นผลลัพธ์ที่วัดผลได้และทำงานร่วมกับลูกค้าอย่างใกล้ชิด',
+      title: 'สถานะล่าสุดของเรา',
+      subtitle: 'วันนี้คือวันแรกของเรา เรายังไม่มีลูกค้า แต่พร้อมพิสูจน์คุณภาพในทุกโปรเจกต์',
       items: [
         {
-          name: 'คุณปิยะ',
-          role: 'CTO, Fintech Startup',
+          name: 'Qodexity',
+          role: 'ทีมผู้ก่อตั้ง',
           quote:
-            'ทีม Qodexity ช่วยยกระดับระบบเราให้รองรับผู้ใช้งานเพิ่มขึ้น 5 เท่า พร้อมแผน DevOps ที่ชัดเจน'
-        },
-        {
-          name: 'คุณศิริ',
-          role: 'Head of Product, SaaS Company',
-          quote:
-            'การสื่อสารดีมาก และส่งมอบงานตรงเวลา ทำให้ทีมของเราทำงานร่วมกันได้อย่างราบรื่น'
+            'เราพร้อมเริ่มต้นกับลูกค้ากลุ่มแรกด้วยมาตรฐานการพัฒนาที่โปร่งใสและใส่ใจในทุกรายละเอียด'
         }
       ]
     },
@@ -148,13 +142,13 @@ const content = {
       tag: 'Technology company for software development',
       title: 'We build modern digital systems with a seasoned programming team.',
       subtitle:
-        'Qodexity Tech Services is your technology partner from planning and development to post-launch support.',
+        'Qodexity Tech Services is a newly launched technology partner covering planning, development, and post-launch support.',
       primaryCta: 'Get a free consultation',
       secondaryCta: 'View recent work',
       metrics: [
-        { value: '120+', label: 'Projects delivered' },
-        { value: '98%', label: 'Client satisfaction' },
-        { value: '24/7', label: 'System support' }
+        { value: 'Day 1', label: 'Our journey begins' },
+        { value: '0', label: 'Clients served' },
+        { value: '100%', label: 'Commitment to care' }
       ],
       cardTitle: 'Featured solutions',
       cardItems: [
@@ -235,20 +229,14 @@ const content = {
       ]
     },
     testimonials: {
-      title: 'Client feedback',
-      subtitle: 'We focus on measurable outcomes and close collaboration.',
+      title: 'Our current status',
+      subtitle: "It's our first day. We don't have clients yet, but we're ready to prove our quality.",
       items: [
         {
-          name: 'Piya',
-          role: 'CTO, Fintech Startup',
+          name: 'Qodexity',
+          role: 'Founding team',
           quote:
-            'Qodexity helped us scale to 5x users with a clear DevOps plan that keeps everything stable.'
-        },
-        {
-          name: 'Siri',
-          role: 'Head of Product, SaaS Company',
-          quote:
-            'Communication was excellent and delivery was on time, making collaboration seamless.'
+            'We are ready to partner with our first clients and deliver transparent, detail-driven development.'
         }
       ]
     },
