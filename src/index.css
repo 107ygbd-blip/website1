@@ -52,6 +52,7 @@ a {
   align-items: center;
   gap: 20px;
   font-size: 0.95rem;
+  flex-wrap: wrap;
 }
 
 .nav-links a {
@@ -125,6 +126,11 @@ a {
   border: 1px solid rgba(255, 255, 255, 0.4);
 }
 
+.button.ghost.active {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.7);
+}
+
 .button:hover {
   transform: translateY(-1px);
   box-shadow: 0 10px 20px rgba(3, 16, 48, 0.25);
@@ -134,6 +140,24 @@ a {
   display: flex;
   gap: 32px;
   flex-wrap: wrap;
+}
+
+.language-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding-left: 8px;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.language-toggle span {
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+.language-toggle .button {
+  padding: 6px 14px;
+  font-size: 0.8rem;
 }
 
 .metrics h3 {
