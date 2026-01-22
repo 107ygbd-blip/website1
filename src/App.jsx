@@ -50,7 +50,7 @@ const testimonials = [
     name: 'คุณปิยะ',
     role: 'CTO, Fintech Startup',
     quote:
-      'ทีม BlueWave ช่วยยกระดับระบบเราให้รองรับผู้ใช้งานเพิ่มขึ้น 5 เท่า พร้อมแผน DevOps ที่ชัดเจน'
+      'ทีม Qodexity ช่วยยกระดับระบบเราให้รองรับผู้ใช้งานเพิ่มขึ้น 5 เท่า พร้อมแผน DevOps ที่ชัดเจน'
   },
   {
     name: 'คุณศิริ',
@@ -65,7 +65,7 @@ const App = () => {
     <div className="app">
       <header className="hero">
         <nav className="nav">
-          <div className="logo">BlueWave Tech</div>
+          <div className="logo">Qodexity</div>
           <div className="nav-links">
             <a href="#services">บริการ</a>
             <a href="#solutions">โซลูชัน</a>
@@ -82,7 +82,7 @@ const App = () => {
               เราช่วยธุรกิจสร้างระบบดิจิทัลที่ทันสมัยด้วยทีมผู้เชี่ยวชาญด้านการเขียนโปรแกรม
             </h1>
             <p className="subtitle">
-              BlueWave Tech Services เป็นพาร์ตเนอร์ด้านเทคโนโลยีที่ดูแลตั้งแต่การวางแผน
+              Qodexity Tech Services เป็นพาร์ตเนอร์ด้านเทคโนโลยีที่ดูแลตั้งแต่การวางแผน
               พัฒนา ไปจนถึงดูแลระบบหลังเปิดใช้งานอย่างครบวงจร
             </p>
             <div className="hero-actions">
@@ -219,12 +219,12 @@ const App = () => {
 
       <footer className="footer">
         <div>
-          <h3>BlueWave Tech Services</h3>
+          <h3>Qodexity Tech Services</h3>
           <p>ยกระดับธุรกิจของคุณด้วยบริการด้านการเขียนโปรแกรมและโซลูชันดิจิทัล</p>
         </div>
         <div>
           <h4>ติดต่อ</h4>
-          <p>hello@bluewavetech.co</p>
+          <p>hello@qodexity.co</p>
           <p>02-123-4567</p>
         </div>
         <div>
